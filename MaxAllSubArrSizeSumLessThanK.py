@@ -33,4 +33,3 @@ def maxAllSubArrSizeSumLessThanK(nums,n , k):
             break
     return ans
 
-
